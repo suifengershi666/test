@@ -4,6 +4,9 @@ import java.io.File;
 import java.io.IOException;
 
 public class MyClass {
+	/*
+	 * 测试程序
+	 */
 
 	public static void main(String[] args) throws IOException {
 		String path = "D:/test";
